@@ -21,9 +21,18 @@
                 <version>3.8.1</version>
                 <configuration>
                     <forceJavacCompilerUse>true</forceJavacCompilerUse>
-                    <release>14</release>
-                    <target>14</target>
-                    <source>14</source>
+                    <release>11</release>
+                    <target>11</target>
+                    <source>11</source>
+                </configuration>
+            </plugin>
+
+            <plugin>
+                <groupId>org.openjfx</groupId>
+                <artifactId>javafx-maven-plugin</artifactId>
+                <version>0.0.5</version>
+                <configuration>
+                    <mainClass>com.dlsc.opencv.ChallengeApp</mainClass>
                 </configuration>
             </plugin>
         </plugins>
