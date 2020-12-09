@@ -11,5 +11,6 @@ Another problem is that the background is not transparent.
 The code I am using is good old "found it on the web" code, meaning I don't really know what it does and how it does it. I would really
 appreciate it if anyone found the time and interest to help me out. 
 
-The code for the OpenCV operations can be found inside OpenCVUtil. 
+The main class is com.dlsc.opencv.ChallengeApp.
 
+The code for the OpenCV operations can be found inside OpenCVUtil. 
