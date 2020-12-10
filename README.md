@@ -1,3 +1,4 @@
+![CI Build](https://github.com/dlemmermann/CoachFX/workflows/CI%20Build/badge.svg)
 # OpenCV Challenge ... a cry for help!
 
 In this project I am trying to use OpenCV (https://opencv.org) to remove the background of images showing soccer and 
