@@ -3,6 +3,8 @@
 In this project I am trying to use OpenCV (https://opencv.org) to remove the background of images showing soccer and 
 basketball players. 
 
+![App](screenshot.png)
+
 The project already implements a solution, but the quality is not good enough to guarantee that the
 players will be completely visible. 
 
